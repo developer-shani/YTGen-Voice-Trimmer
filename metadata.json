@@ -1,0 +1,7 @@
+{
+  "name": "YTGEN Voice Trimmer",
+  "description": "A high-performance local audio silence remover with advanced threshold controls, waveform visualization, and AI-powered noise analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
